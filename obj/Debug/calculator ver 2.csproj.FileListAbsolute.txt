@@ -1,0 +1,62 @@
+E:\app lop 11\calculator ver 2\bin\Debug\calculator ver 2.exe.config
+E:\app lop 11\calculator ver 2\bin\Debug\calculator ver 2.exe
+E:\app lop 11\calculator ver 2\bin\Debug\calculator ver 2.pdb
+E:\app lop 11\calculator ver 2\obj\Debug\calculator ver 2.csproj.AssemblyReference.cache
+E:\app lop 11\calculator ver 2\obj\Debug\calculator_ver_2.Form1.resources
+E:\app lop 11\calculator ver 2\obj\Debug\calculator_ver_2.Properties.Resources.resources
+E:\app lop 11\calculator ver 2\obj\Debug\calculator ver 2.csproj.GenerateResource.cache
+E:\app lop 11\calculator ver 2\obj\Debug\calculator ver 2.csproj.CoreCompileInputs.cache
+E:\app lop 11\calculator ver 2\obj\Debug\calculator ver 2.exe
+E:\app lop 11\calculator ver 2\obj\Debug\calculator ver 2.pdb
+C:\Users\hanng\Downloads\calculator ver 2\calculator ver 2\bin\Debug\calculator ver 2.exe.config
+C:\Users\hanng\Downloads\calculator ver 2\calculator ver 2\bin\Debug\calculator ver 2.exe
+C:\Users\hanng\Downloads\calculator ver 2\calculator ver 2\bin\Debug\calculator ver 2.pdb
+C:\Users\hanng\Downloads\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.csproj.AssemblyReference.cache
+C:\Users\hanng\Downloads\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Form1.resources
+C:\Users\hanng\Downloads\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Properties.Resources.resources
+C:\Users\hanng\Downloads\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.csproj.GenerateResource.cache
+C:\Users\hanng\Downloads\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.csproj.CoreCompileInputs.cache
+C:\Users\hanng\Downloads\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.exe
+C:\Users\hanng\Downloads\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.pdb
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 2\calculator ver 2\bin\Debug\calculator ver 2.exe.config
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 2\calculator ver 2\bin\Debug\calculator ver 2.exe
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 2\calculator ver 2\bin\Debug\calculator ver 2.pdb
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.csproj.AssemblyReference.cache
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Properties.Resources.resources
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.csproj.GenerateResource.cache
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.csproj.CoreCompileInputs.cache
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.exe
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.pdb
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Choosemaho.resources
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Main.resources
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.quadra.resources
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Multi2.resources
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Multi3.resources
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 3\calculator ver 2\calculator ver 2\bin\Debug\calculator ver 2.exe.config
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 3\calculator ver 2\calculator ver 2\bin\Debug\calculator ver 2.exe
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 3\calculator ver 2\calculator ver 2\bin\Debug\calculator ver 2.pdb
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.csproj.AssemblyReference.cache
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Main.resources
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Choosemaho.resources
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.quadra.resources
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Multi2.resources
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Multi3.resources
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Properties.Resources.resources
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.csproj.GenerateResource.cache
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.csproj.CoreCompileInputs.cache
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.exe
+C:\Users\hanng\Desktop\SGK\TIN\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.pdb
+C:\Users\DELL\Downloads\calculator ver 3\calculator ver 2\calculator ver 2\bin\Debug\calculator ver 2.exe.config
+C:\Users\DELL\Downloads\calculator ver 3\calculator ver 2\calculator ver 2\bin\Debug\calculator ver 2.exe
+C:\Users\DELL\Downloads\calculator ver 3\calculator ver 2\calculator ver 2\bin\Debug\calculator ver 2.pdb
+C:\Users\DELL\Downloads\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Main.resources
+C:\Users\DELL\Downloads\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Choosemaho.resources
+C:\Users\DELL\Downloads\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.quadra.resources
+C:\Users\DELL\Downloads\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Multi2.resources
+C:\Users\DELL\Downloads\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Multi3.resources
+C:\Users\DELL\Downloads\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator_ver_2.Properties.Resources.resources
+C:\Users\DELL\Downloads\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.exe
+C:\Users\DELL\Downloads\calculator ver 3\calculator ver 2\calculator ver 2\obj\Debug\calculator ver 2.pdb
